@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+	<rss version="2.0">
+		 <channel>
+			 <item>
+				 <title>Our Top 5 Books to Get You in the Mood for Christmas</title>
+				 <description>The perfect reading to give you a pre-Christmas pick-me-up.</description>
+				 <link>news.html</link>
+			 </item>
+			 <item>
+				 <title>The Waterstones Children's Reading Round-Up</title>
+				 <description>Here are some of our favourite children’s books.</description>
+				 <link>news.html</link>
+			 </item>
+			 <item>
+				 <title>Graphic Novels – The Essential Primer</title>
+				 <description>our starter guide to the best graphic novels has everything 
+				 newcomers to the genre need to get started.</description>
+				 <link>news.html</link>
+			 </item>
+		 </channel>
+	</rss> 
